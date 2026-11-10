@@ -3,7 +3,7 @@
 매일 개발 지식을 학습하고 실습 코드를 기록하는 개인 학습 저장소입니다.
 
 ## Learning Topics
-g
+
 - JavaScript
 - Vue 3
 - CSS / SCSS
